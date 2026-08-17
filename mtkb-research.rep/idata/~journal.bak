@@ -1,0 +1,4 @@
+IADD:00000000:/dumped_firmware.bin
+IDSET:/dumped_firmware.bin:c0a8b5e936d37110853615753
+FADD:/NewFolder
+FDEL:/NewFolder
